@@ -57,3 +57,13 @@ This project is licensed under the MIT License. See the full text of the license
 
 MIT License
 
+## Contact
+
+If you have any questions or feedback, feel free to contact me:
+
+- Email: www.mdsrsakin2001@gmail.com
+
+---
+
+Thank you for checking out my Profile Card project!
+
